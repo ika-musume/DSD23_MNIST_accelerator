@@ -1,0 +1,298 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/17.0
+vdsdaccel
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1684138298
+!i10b 1
+!s100 YPmEFS_1aVzWUjCoQELXW0
+I:ngNz]2RIijc@nkZ[N6mO2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 !s105 dsdmnist_sv_unit
+S1
+dC:/Users/kiki1/Desktop/assignments 2/DSD_termprj/sim
+w1684138194
+8C:/Users/kiki1/Desktop/assignments 2/DSD_termprj/sim/dsdmnist.sv
+FC:/Users/kiki1/Desktop/assignments 2/DSD_termprj/sim/dsdmnist.sv
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1684138298.000000
+!s107 C:/Users/kiki1/Desktop/assignments 2/DSD_termprj/sim/dsdmnist.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kiki1/Desktop/assignments 2/DSD_termprj/sim/dsdmnist.sv|
+!i113 1
+Z4 o-work work -sv
+Z5 tCvgOpt 0
+vdsdaccel_imgrom
+R0
+Z6 !s110 1684829519
+!i10b 1
+!s100 W5Q:z6E06Sa26NdcV>BAZ3
+IDoAR]W1<hSh2QFKgNzn=O3
+R1
+!s105 dsdmnist_imgrom_sv_unit
+S1
+Z7 dC:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim
+w1684306186
+8C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_imgrom.sv
+FC:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_imgrom.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1684829518.000000
+!s107 C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_imgrom.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_imgrom.sv|
+!i113 1
+R4
+R5
+vdsdaccel_sr
+R0
+!s110 1684912199
+!i10b 1
+!s100 k8561j5mheWPA^^Ib@YC[1
+Il>eo8`XJ@e39=B[ibUDz`2
+R1
+!s105 dsdmnist_sr_sv_unit
+S1
+R7
+w1684834324
+8C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_sr.sv
+FC:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_sr.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1684912199.000000
+!s107 C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_sr.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_sr.sv|
+!i113 1
+R4
+R5
+vdsdaccel_weightrom
+R0
+R6
+!i10b 1
+!s100 J[<U:emDkL6oUzLInZIe>0
+IM0DB2h`592jV6n;nOa5UQ2
+R1
+!s105 dsdmnist_weightrom_sv_unit
+S1
+R7
+w1684306182
+8C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_weightrom.sv
+FC:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_weightrom.sv
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1684829519.000000
+!s107 C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_weightrom.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_weightrom.sv|
+!i113 1
+R4
+R5
+vdsdmnist
+R0
+!s110 1685071932
+!i10b 1
+!s100 z`Z?QR13QkWE46OCJ29K@0
+IDTE=`maZePZn]UGY;^Tb50
+R1
+R2
+S1
+R7
+w1685028959
+8C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist.sv
+FC:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1685071932.000000
+!s107 C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist.sv|
+!i113 1
+R4
+R5
+vdsdmnist_3op_acc
+R0
+R6
+!i10b 1
+!s100 ahb5KeE8f?;NJ<T72=XF]0
+I@oom791313NnZ8kbc`I>40
+R1
+Z9 !s105 dsdmnist_operator_sv_unit
+S1
+R7
+Z10 w1684287440
+Z11 8C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_operator.sv
+Z12 FC:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_operator.sv
+L0 222
+R3
+r1
+!s85 0
+31
+R8
+Z13 !s107 C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_operator.sv|
+Z14 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_operator.sv|
+!i113 1
+R4
+R5
+vdsdmnist_3op_add
+R0
+R6
+!i10b 1
+!s100 zHVOY7_PocQb_[`>aP6Yb1
+I>98<=FUi^EPANUmU<o07`3
+R1
+R9
+S1
+R7
+R10
+R11
+R12
+L0 203
+R3
+r1
+!s85 0
+31
+R8
+R13
+R14
+!i113 1
+R4
+R5
+vdsdmnist_4op_muladd
+R0
+R6
+!i10b 1
+!s100 ZU7mm6][NiLkd3bk]Waf<2
+IWQ;@Hga[V6z0KnIz8NXKQ1
+R1
+R9
+S1
+R7
+R10
+R11
+R12
+L0 177
+R3
+r1
+!s85 0
+31
+R8
+R13
+R14
+!i113 1
+R4
+R5
+vdsdmnist_operator
+R0
+R6
+!i10b 1
+!s100 __`9lIjZ2ndNRBUVcSDzo3
+I]H>6eY;i6?oMNfnOC8D<Y3
+R1
+R9
+S1
+R7
+R10
+R11
+R12
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+R13
+R14
+!i113 1
+R4
+R5
+vdsdmnist_postcalc
+R0
+R6
+!i10b 1
+!s100 IPAAn`jc0S7hn]@l1LhBX0
+ID[OaGi4gVloRKb6izBHmg0
+R1
+!s105 dsdmnist_postcalc_sv_unit
+S1
+R7
+w1684291299
+8C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_postcalc.sv
+FC:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_postcalc.sv
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_postcalc.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_postcalc.sv|
+!i113 1
+R4
+R5
+vdsdmnist_sequencer
+R0
+R6
+!i10b 1
+!s100 94ma2Z`bke7iMU^jI3OP71
+IQb8V4URG5h0fDMd`8j64l0
+R1
+!s105 dsdmnist_sequencer_sv_unit
+S1
+R7
+w1684313773
+8C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_sequencer.sv
+FC:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_sequencer.sv
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_sequencer.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_sequencer.sv|
+!i113 1
+R4
+R5
+vdsdmnist_tb
+R0
+!s110 1685293087
+!i10b 1
+!s100 8k[T:K053A0T8J6UTgVPc1
+INcMObKKVUekG4P6n^l6gg1
+R1
+!s105 dsdmnist_tb_sv_unit
+S1
+R7
+w1685293085
+8C:\Users\kiki1\Desktop\assignments2\DSD_termprj\sim\dsdmnist_tb.sv
+FC:\Users\kiki1\Desktop\assignments2\DSD_termprj\sim\dsdmnist_tb.sv
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1685293087.000000
+!s107 C:\Users\kiki1\Desktop\assignments2\DSD_termprj\sim\dsdmnist_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\kiki1\Desktop\assignments2\DSD_termprj\sim\dsdmnist_tb.sv|
+!i113 1
+R4
+R5

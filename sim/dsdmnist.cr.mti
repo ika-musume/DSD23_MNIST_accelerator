@@ -1,0 +1,61 @@
+C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_operator.sv {1 {vlog -work work -sv -stats=none C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_operator.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dsdmnist_operator
+-- Compiling module dsdmnist_4op_muladd
+-- Compiling module dsdmnist_3op_add
+-- Compiling module dsdmnist_3op_acc
+
+Top level modules:
+	dsdmnist_operator
+
+} {} {}} C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist.sv {1 {vlog -work work -sv -stats=none C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dsdmnist
+
+Top level modules:
+	dsdmnist
+
+} {} {}} C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_postcalc.sv {1 {vlog -work work -sv -stats=none C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_postcalc.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dsdmnist_postcalc
+
+Top level modules:
+	dsdmnist_postcalc
+
+} {} {}} C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_sr.sv {1 {vlog -work work -sv -stats=none C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_sr.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dsdaccel_sr
+
+Top level modules:
+	dsdaccel_sr
+
+} {} {}} C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_weightrom.sv {1 {vlog -work work -sv -stats=none C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_weightrom.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dsdaccel_weightrom
+
+Top level modules:
+	dsdaccel_weightrom
+
+} {} {}} C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_tb.sv {1 {vlog -work work -sv -stats=none {C:\Users\kiki1\Desktop\assignments2\DSD_termprj\sim\dsdmnist_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dsdmnist_tb
+
+Top level modules:
+	dsdmnist_tb
+
+} {} {}} C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_imgrom.sv {2 {vlog -work work -sv -stats=none C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_imgrom.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dsdaccel_imgrom
+** Warning: C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_imgrom.sv(93): (vlog-2583) [SVCHK] - Some checking for conflicts with always_comb and always_latch variables not yet supported. Run vopt to provide additional design-level checks.
+
+Top level modules:
+	dsdaccel_imgrom
+
+} {} {}} C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_sequencer.sv {1 {vlog -work work -sv -stats=none C:/Users/kiki1/Desktop/assignments2/DSD_termprj/sim/dsdmnist_sequencer.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dsdmnist_sequencer
+
+Top level modules:
+	dsdmnist_sequencer
+
+} {} {}}
